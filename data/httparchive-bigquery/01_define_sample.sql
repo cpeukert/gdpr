@@ -1,3 +1,5 @@
+/* --- Define the sample ---*/
+
 #standardSQL
 CREATE TABLE myhttparchive.common_hosts_balanced AS
 SELECT p.pageid, NET.HOST(p.url) as host

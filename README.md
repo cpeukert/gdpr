@@ -3,7 +3,7 @@
 ### Forthcoming in Marketing Science
 
 This repo contains a replication package and instructions to access publicly available data.
-The combined datasets used for the paper and referenced in the STATA code here, can be downloaded here: https://www.dropbox.com/s/x6yrq0r9nwznoav/peukert_et_al_gdpr_data.zip?dl=0
+The combined datasets used for the paper and referenced in the STATA code here, can be downloaded here: https://www.dropbox.com/s/k5it4r7q24jronq/peukert_et_al_gdpr_data.zip?dl=0
 
 The latest version of the paper can be found here: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3560392
 

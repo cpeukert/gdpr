@@ -1,6 +1,6 @@
 # Regulatory Spillovers and Data Governance: Evidence from the GDPR
 ## Peukert, Christian; Bechtold, Stefan; Batikas, Michail; Kretschmer, Tobias
-### Marketing Science, 41(4), 318-340
+### Marketing Science, 2022, 41(4), 318-340
 
 This repo contains a replication package and instructions to access publicly available data.
 The combined datasets used for the paper and referenced in the STATA code here, can be downloaded here: https://www.dropbox.com/s/k5it4r7q24jronq/peukert_et_al_gdpr_data.zip?dl=0
